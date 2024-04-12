@@ -1,4 +1,4 @@
-name: transactional-voice-ai-old
+name: transactional-voice-ai
 channels:
   - conda-forge
   - defaults

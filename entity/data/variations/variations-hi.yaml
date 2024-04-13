@@ -237,6 +237,7 @@ bank_name:
   - बैंक ओफ अमरीका
   Bank of Baroda:
   - बीओबी
+  - बैंक ऑफ बरोडा
   - बैंक औफ बड़ोदा
   - बैंक ओफ बड़ोदा
   - बैंक ऑफ बड़ोदा
@@ -258,6 +259,8 @@ bank_name:
   - बैंक ओफ महाराष्ट्र
   - बैंक औफ महाराष्ट्र
   - बैंक ऑफ महाराष्ट्र
+  - बैंक ऑफ़ महाराष्ट्र
+  - महाराष्ट्र बैंक
   - बीओएम
   Baran Nagrik Sahkari Bank Ltd:
   - बरान नाग्रिक सहकरी बैंक लिमिटेड
@@ -452,18 +455,25 @@ bank_name:
   - हिम्मतनगर नागरिक सहकारी बैंक लिमिटेड
   - हिम्मतनगर नागरिक सहकारी बैंक
   Hutatma Co Op Bank Ltd: []
-  ICICI Bank Limited:
+  ICICI Bank:
   - आईसीआईसीआई बैंक
   - आईसीआईसीआई
   - आईसीआईसी बैंक
   IDBI Bank:
   - आईडीबीआई बैंक
+  - आइडीबीआई बैंक
   - आईडीबीआई
   IDFC First Bank Limited:
   - आईडीएफसी फर्स्ट बैंक लिमिटेड
   - आईडीएफसी फर्स्ट बैंक
+  - आइडीएफसी फर्स्ट बैंक
   - आईडीएफसी बैंक
   - आईडीएफसी
+  - आइडीएफसी फर्स्ट बैंक लिमिटेड
+  - आइडीएफसी फर्स्ट बैंक
+  - आइडीएफसी फर्स्ट बैंक
+  - आइडीएफसी बैंक
+  - आइडीएफसी
   India Post Payments Bank:
   - इंडिया पोस्ट पेमेंट बैंक 
   - इंडिया पोस्ट पेमेंट्स बैंक
@@ -528,6 +538,8 @@ bank_name:
   Jammu & Kashmir bank:
   - जम्मु एन्ड काश्मीर बैंक
   - जे एन्ड के बैंक
+  - जम्मू कश्मीर बैंक
+  - जम्मू एंड कश्मीर बैंक
   Jana Small Finance Bank:
   - जना स्माल फाइनैंस बैंक
   - जना बैंक
@@ -561,6 +573,8 @@ bank_name:
   Jio Payments Bank:
   - जिओ पेमेन्ट्स बैंक
   - जिओ बैंक
+  - जियो बैंक
+  - जियो पेमेंट बैंक
   Jivan Commercial Co-operative Bank Ltd:
   - जीवन कॉमर्शियल कोऑपरेटिव बैंक लिमिटेड
   - जिवन कॉमर्शियल कोऑपरेटिव बैंक लिमिटेड
@@ -754,8 +768,11 @@ bank_name:
   - पाटन नागरिक सहकारी बैंक
   Paytm Payments Bank:
   - पैटीएम पेमेन्ट्स बैंक
+  - पेटीएम पेमेंट्स बैंक
   - पैटीएम
   - पैटीएम बैंक
+  - पेटीएम बैंक
+  - पेटीएम पेमेंट बैंक
   Peoples Urban Co-operative Bank Ltd:
   - पीपल्स अर्बन कोऑपरेटिव बैंक लिमिटेड
   Pockets by ICICI Bank:
@@ -1287,7 +1304,7 @@ bank_name:
   - यूनियन बैंक ओफ इन्डिया
   - यूनियन बैंक ऑफ इन्डिया
   - यूनियन बैंक औफ इन्डिया
-  - यूनियन बैंक  
+  - यूनियन बैंक
   - यूबीआई
   Union Co-operative Bank Ltd.:
   - युनियन कोऑपरेटिव बैंक लिमिटेड
@@ -1602,98 +1619,103 @@ bank_name:
 #   West Bengal State Electricity Distribution Co. Ltd (WBSEDCL):
 #   - वैस्ट बेंगल स्टेटे एलेक्ट्रिसिटी डिस्ट्रिब्यूशन को लिमिटेड
 #   - डबल्यू बी एस ई डी सी एल
-# lpg_gas_provider_name:
-#   Bharat Petroleum Corporation Ltd.:
-#   - भारत पेट्रोलीयम कॉरपोरेशन लिमिटिड
-#   - बी पी सी एल
-#   - भारत गैस
-#   - भारत पेट्रोलीयम
-#   Hindustan Petroleum Corporation Ltd.:
-#   - हिन्दुस्तान पेट्रोलीयम कॉरपोरेशन लिमिटिड
-#   - एच पी गैस
-#   - एच पी
-#   - हिन्दुस्तान पेट्रोलीयम
-#   - एच पी सी एल
-#   Indian Oil Corporation Ltd:
-#   - इन्डियन ओइल कॉरपोरेशन लिमिटिड
-#   - इंडेन गैस
-#   - इंडेन
-#   Jyothi Gas Pvt. Ltd:
-#   - ज्योथी गैस प्राईवेट लिमिटिड
-#   - ज्योथी गैस
-#   - ज्योती गैस
-# pipe_gas_provider_name:
-#   Aavantika Gas Ltd.:
-#   - आवन्तिका गैस लिमिटेड
-#   Adani Total Gas Limited:
-#   - अडानी टोटाल गैस लिमिटेड
-#   - अडानी गैस
-#   - अडानी टोटाल
-#   Assam Gas Company Limited:
-#   - असाम गैस कम्पनी लिमिटेड
-#   Bhagyanagar Gas Limited:
-#   - भाग्यानगर गैस लिमिटेड
-#   Central U.P. Gas Limited:
-#   - सेन्ट्रल यू पी गैस लिमिटेड
-#   Charotar Gas Sahakari Mandali Ltd:
-#   - चारोतार गैस सहाकारी मंडाली लिमिटेड
-#   GAIL Gas Limited:
-#   - गैल गैस लिमिटेड
-#   - गैल
-#   GAIL India Limited:
-#   - गैल इंदिया लिमिटेड
-#   - गैल इंदिया
-#   Green Gas Limited(GGL):
-#   - ग्रिन गैस लिमिटेड
-#   - ग्रिन गैस
-#   - जी जी एल
-#   Gujarat Gas Limited:
-#   - गुजरत गैस लिमिटेड
-#   Gujarat State Petronet Limited:
-#   - गुजरत स्टेटे पैट्रोनेट लिमिटेड
-#   Haryana City Gas - Kapil Chopra Enterprise:
-#   - हरयाणा सीटी गैस कापिल चोपड़ा एंटरप्राइज़
-#   - हरयाणा सीटी गैस
-#   - कापिल चोपड़ा एंटरप्राइज़
-#   IRM Energy Private Limited:
-#   - आई आर एम इनर्जी प्राईवेट लिमिटेड
-#   Indian Oil Corporation Ltd-Piped Gas:
-#   - इन्डियन आयल कॉरपोरेशन लिमिटेड पाईप्ड गैस
-#   - आइओसीएल
-#   - इन्डियन आयल
-#   Indian Oil-Adani Gas Private Limited:
-#   - इन्डियन आयल अडानी गैस प्राईवेट लिमिटेड
-#   Indraprastha Gas:
-#   - इन्द्रप्रस्थ गैस
-#   - आई जी एल
-#   - इन्द्रप्रस्थ गैस
-#   Mahanagar Gas Limited:
-#   - माहानगर गैस लिमिटेड
-#   - माहानगर गैस
-#   Maharashtra Natural Gas Limited (MNGL):
-#   - महाराष्ट्रा नैचुरल गैस लिमिटेड
-#   - एम एन जी एल
-#   - महाराष्ट्रा गैस लिमिटेड
-#   Megha Gas:
-#   - मेघ गैस
-#   Naveriya Gas Pvt Ltd:
-#   - नावेरिया गैस प्राईवेट लिमिटेड
-#   Purba Bharati Gas Pvt Ltd:
-#   - पूर्बा भरती गैस प्राईवेट लिमिटेड
-#   Rajasthan State Gas Limited:
-#   - राजास्थान स्टेटे गैस लिमिटेड
-#   Sabarmati Gas Limited (SGL):
-#   - सबरमती गैस लिमिटेड
-#   - एस जी एल
-#   Torrent Gas:
-#   - टॉरेंट गैस
-#   Tripura Natural Gas:
-#   - त्रिपुर नैचुरल गैस
-#   Unique Central Piped Gases Pvt Ltd (UCPGPL):
-#   - यूनीक सेन्ट्रल पाईप्ड गेसेस प्राईवेट लिमिटेड
-#   - यू सी पी जी पी एल
-#   Vadodara Gas Limited:
-#   - वड़ोदरा गैस लिमिटेड
+lpg_gas_provider_name:
+  Bharat Petroleum Corporation Ltd.:
+  - भारत पेट्रोलीयम कॉरपोरेशन लिमिटिड
+  - बी पी सी एल
+  - भारत गैस
+  - भारत पेट्रोलीयम
+  - भारत पेट्रोलीयम गैस
+  Hindustan Petroleum Corporation Ltd.:
+  - हिन्दुस्तान पेट्रोलीयम कॉरपोरेशन लिमिटिड
+  - एच पी गैस
+  - एच पी
+  - हिन्दुस्तान पेट्रोलीयम गैस
+  - एच पी सी एल
+  Indian Oil Corporation Ltd:
+  - इन्डियन ओइल कॉरपोरेशन लिमिटिड
+  - इंडेन गैस
+  - इंडियन गैस
+  - इंडेन
+  Jyothi Gas Pvt. Ltd:
+  - ज्योथी गैस प्राईवेट लिमिटिड
+  - ज्योथी गैस
+  - ज्योती गैस
+pipe_gas_provider_name:
+  Aavantika Gas Ltd.:
+  - आवन्तिका गैस लिमिटेड
+  Adani Total Gas Limited:
+  - अडानी टोटाल गैस लिमिटेड
+  - अडानी गैस
+  - अडानी टोटाल
+  - अडानी पाइप गैस
+  Assam Gas Company Limited:
+  - असाम गैस कम्पनी लिमिटेड
+  - असाम गैस कंपनी
+  - असाम गैस
+  Bhagyanagar Gas Limited:
+  - भाग्यानगर गैस लिमिटेड
+  Central U.P. Gas Limited:
+  - सेन्ट्रल यू पी गैस लिमिटेड
+  Charotar Gas Sahakari Mandali Ltd:
+  - चारोतार गैस सहाकारी मंडाली लिमिटेड
+  GAIL Gas Limited:
+  - गैल गैस लिमिटेड
+  - गैल
+  GAIL India Limited:
+  - गैल इंदिया लिमिटेड
+  - गैल इंदिया
+  Green Gas Limited(GGL):
+  - ग्रिन गैस लिमिटेड
+  - ग्रिन गैस
+  - जी जी एल
+  Gujarat Gas Limited:
+  - गुजरत गैस लिमिटेड
+  Gujarat State Petronet Limited:
+  - गुजरत स्टेटे पैट्रोनेट लिमिटेड
+  Haryana City Gas - Kapil Chopra Enterprise:
+  - हरयाणा सीटी गैस कापिल चोपड़ा एंटरप्राइज़
+  - हरयाणा सीटी गैस
+  - कापिल चोपड़ा एंटरप्राइज़
+  IRM Energy Private Limited:
+  - आई आर एम इनर्जी प्राईवेट लिमिटेड
+  Indian Oil Corporation Ltd-Piped Gas:
+  - इन्डियन आयल कॉरपोरेशन लिमिटेड पाईप्ड गैस
+  - आइओसीएल
+  - इन्डियन आयल
+  Indian Oil-Adani Gas Private Limited:
+  - इन्डियन आयल अडानी गैस प्राईवेट लिमिटेड
+  Indraprastha Gas:
+  - इन्द्रप्रस्थ गैस
+  - आई जी एल
+  - इन्द्रप्रस्थ गैस
+  Mahanagar Gas Limited:
+  - माहानगर गैस लिमिटेड
+  - माहानगर गैस
+  Maharashtra Natural Gas Limited (MNGL):
+  - महाराष्ट्रा नैचुरल गैस लिमिटेड
+  - एम एन जी एल
+  - महाराष्ट्रा गैस लिमिटेड
+  Megha Gas:
+  - मेघ गैस
+  Naveriya Gas Pvt Ltd:
+  - नावेरिया गैस प्राईवेट लिमिटेड
+  Purba Bharati Gas Pvt Ltd:
+  - पूर्बा भरती गैस प्राईवेट लिमिटेड
+  Rajasthan State Gas Limited:
+  - राजास्थान स्टेटे गैस लिमिटेड
+  Sabarmati Gas Limited (SGL):
+  - सबरमती गैस लिमिटेड
+  - एस जी एल
+  Torrent Gas:
+  - टॉरेंट गैस
+  Tripura Natural Gas:
+  - त्रिपुर नैचुरल गैस
+  Unique Central Piped Gases Pvt Ltd (UCPGPL):
+  - यूनीक सेन्ट्रल पाईप्ड गेसेस प्राईवेट लिमिटेड
+  - यू सी पी जी पी एल
+  Vadodara Gas Limited:
+  - वड़ोदरा गैस लिमिटेड
 # state_name:
 #   Andaman and Nicobar:
 #   - अन्दमान एन्ड नीकोबार
@@ -1778,3 +1800,27 @@ bank_name:
 #   - डबल्यू बी
 #   - बेंगाल
 #   - पशिम बेंगाल
+telephone_operator:
+  Airtel:
+  - एयरटेल
+  - एअरटेल
+  - भारती एयरटेल
+  - भारती एअरटेल
+  BSNL:
+  - बी एस एन एल
+  - भारत संचार निगम लिमिटेड 
+  MTNL:
+  - डॉल्फिन 
+  - ट्रंप 
+  - एम टी एन एल
+  - ट्रम्प
+  - महानगर टेलीफोन निगम लिमिटेड 
+  Jio:
+  - जियो
+  - जिओ
+  - रिलायंस जियो
+  - रिलायंस जिओ
+  Vodafone:
+  - वोडाफोन आइडिया
+  - वोडाफोन
+  - आइडिया

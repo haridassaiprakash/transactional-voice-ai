@@ -303,9 +303,9 @@ bank_name:
   - himatnagar nagarik sahakari bank limited
   Hutatma Co Op Bank Ltd:
   - hutatma co op bank limited
-  - हूतात्मा को ऑप बैंक लिमिटेड
-  ICICI Bank Limited:
+  ICICI Bank :
   - icici bank
+  - icici bank limited
   - icici 
   - icic bank
   IDBI Bank:
@@ -326,6 +326,7 @@ bank_name:
   - indian bank
   Indian Overseas Bank:
   - indian overseas bank
+  - india overseas bank
   - iob
   Indore Cloth Market Co-Op Bank Ltd:
   - indore cloth market co op bank limited
@@ -406,8 +407,10 @@ bank_name:
   - karnataka vikas gramina bank
   Karur vysya Bank:
   - karur vysya bank
+  - karur vaishya bank
   - k v b
   - karur vysya
+  - karor vaishya bank
   Kerala Gramina Bank:
   - kerala gramina bank
   Kokan Merchantile Co-operative Bank Ltd:
@@ -420,6 +423,7 @@ bank_name:
   - kotak mahindra bank
   - kotak mahindra
   - kotak bank
+  - kotech mahindra 
   Kottakkal Co- Op Urban Bank Ltd:
   - kottakkal co op urban bank limited
   Krishna Bhima Samruddhi Local Area Bank:
@@ -737,6 +741,7 @@ bank_name:
   - the darussalam cooperative urban bank limited
   The Eenadu Coop Urban Bank Ltd:
   - the eenadu co op urban bank limited
+  - eenadu coop bank
   The Financial Co-operative Bank Ltd:
   - the financial cooperative bank limited
   The Gadchiroli District Central Co-operative Bank:
@@ -870,6 +875,7 @@ bank_name:
   UCO Bank:
   - uco bank
   - uco
+  - yuk bank
   Ujjivan Small Finance Bank:
   - ujjivan small finance bank
   - ujjivan
@@ -1175,98 +1181,103 @@ bank_name:
 #   West Bengal State Electricity Distribution Co. Ltd (WBSEDCL):
 #   - west bengal state electricity distribution co limited
 #   - w b s e d c l
-# lpg_gas_provider_name:
-#   Bharat Petroleum Corporation Ltd.:
-#   - bharat petroleum corporation limited
-#   - b p c l
-#   - bharat gas
-#   - bharat petroleum
-#   Hindustan Petroleum Corporation Ltd.:
-#   - hindustan petroleum corporation limited
-#   - h p gas
-#   - h p
-#   - hindustan petroleum
-#   - h p c l
-#   Indian Oil Corporation Ltd:
-#   - indian oil corporation limited
-#   - indane gas
-#   - indane
-#   Jyothi Gas Pvt. Ltd:
-#   - jyothi gas private limited
-#   - jyothi gas
-#   - jyoti gas
-# pipe_gas_provider_name:
-#   Aavantika Gas Ltd.:
-#   - aavantika gas limited
-#   Adani Total Gas Limited:
-#   - adani total gas limited
-#   - adani gas
-#   - adani total
-#   Assam Gas Company Limited:
-#   - assam gas company limited
-#   Bhagyanagar Gas Limited:
-#   - bhagyanagar gas limited
-#   Central U.P. Gas Limited:
-#   - central u p gas limited
-#   Charotar Gas Sahakari Mandali Ltd:
-#   - charotar gas sahakari mandali limited
-#   GAIL Gas Limited:
-#   - gail gas limited
-#   - gail
-#   GAIL India Limited:
-#   - gail india limited
-#   - gail india
-#   Green Gas Limited(GGL):
-#   - green gas limited
-#   - green gas
-#   - g g l
-#   Gujarat Gas Limited:
-#   - gujarat gas limited
-#   Gujarat State Petronet Limited:
-#   - gujarat state petronet limited
-#   Haryana City Gas - Kapil Chopra Enterprise:
-#   - haryana city gas kapil chopra enterprise
-#   - haryana city gas
-#   - kapil chopra enterprise
-#   IRM Energy Private Limited:
-#   - i r m energy private limited
-#   Indian Oil Corporation Ltd-Piped Gas:
-#   - indian oil corporation limited piped gas
-#   - iocl
-#   - indian oil
-#   Indian Oil-Adani Gas Private Limited:
-#   - indian oil adani gas private limited
-#   Indraprastha Gas:
-#   - indraprastha gas
-#   - i g l
-#   - indraprastha gas
-#   Mahanagar Gas Limited:
-#   - mahanagar gas limited
-#   - mahanagar gas
-#   Maharashtra Natural Gas Limited (MNGL):
-#   - maharashtra natural gas limited
-#   - m n g l
-#   - maharashtra gas limited
-#   Megha Gas:
-#   - megha gas
-#   Naveriya Gas Pvt Ltd:
-#   - naveriya gas private limited
-#   Purba Bharati Gas Pvt Ltd:
-#   - purba bharati gas private limited
-#   Rajasthan State Gas Limited:
-#   - rajasthan state gas limited
-#   Sabarmati Gas Limited (SGL):
-#   - sabarmati gas limited
-#   - s g l
-#   Torrent Gas:
-#   - torrent gas
-#   Tripura Natural Gas:
-#   - tripura natural gas
-#   Unique Central Piped Gases Pvt Ltd (UCPGPL):
-#   - unique central piped gases private limited
-#   - u c p g p l
-#   Vadodara Gas Limited:
-#   - vadodara gas limited
+lpg_gas_provider_name:
+  Bharat Petroleum Corporation Ltd.:
+  - bharat petroleum corporation limited
+  - b p c l
+  - bharat gas
+  - bharat petroleum
+  Hindustan Petroleum Corporation Ltd.:
+  - hindustan petroleum corporation limited
+  - hindustan petrol
+  - h p gas
+  - h p
+  - hindustan petroleum
+  - h p c l
+  Indian Oil Corporation Ltd:
+  - indian oil corporation limited
+  - indane gas
+  - indian gas
+  - indane
+  Jyothi Gas Pvt. Ltd:
+  - jyothi gas private limited
+  - jyothi gas
+  - jyoti gas
+pipe_gas_provider_name:
+  Aavantika Gas Ltd.:
+  - aavantika gas limited
+  Adani Total Gas Limited:
+  - adani total gas limited
+  - adani gas
+  - adani total
+  - adani pipe gas
+  Assam Gas Company Limited:
+  - assam gas company limited
+  - assam gas company
+  - assam gas
+  Bhagyanagar Gas Limited:
+  - bhagyanagar gas limited
+  Central U.P. Gas Limited:
+  - central u p gas limited
+  Charotar Gas Sahakari Mandali Ltd:
+  - charotar gas sahakari mandali limited
+  GAIL Gas Limited:
+  - gail gas limited
+  - gail
+  GAIL India Limited:
+  - gail india limited
+  - gail india
+  Green Gas Limited(GGL):
+  - green gas limited
+  - green gas
+  - g g l
+  Gujarat Gas Limited:
+  - gujarat gas limited
+  Gujarat State Petronet Limited:
+  - gujarat state petronet limited
+  Haryana City Gas - Kapil Chopra Enterprise:
+  - haryana city gas kapil chopra enterprise
+  - haryana city gas
+  - kapil chopra enterprise
+  IRM Energy Private Limited:
+  - i r m energy private limited
+  Indian Oil Corporation Ltd-Piped Gas:
+  - indian oil corporation limited piped gas
+  - iocl
+  - indian oil
+  Indian Oil-Adani Gas Private Limited:
+  - indian oil adani gas private limited
+  Indraprastha Gas:
+  - indraprastha gas
+  - i g l
+  - indraprastha gas
+  Mahanagar Gas Limited:
+  - mahanagar gas limited
+  - mahanagar gas
+  Maharashtra Natural Gas Limited (MNGL):
+  - maharashtra natural gas limited
+  - m n g l
+  - maharashtra gas limited
+  Megha Gas:
+  - megha gas
+  Naveriya Gas Pvt Ltd:
+  - naveriya gas private limited
+  Purba Bharati Gas Pvt Ltd:
+  - purba bharati gas private limited
+  Rajasthan State Gas Limited:
+  - rajasthan state gas limited
+  Sabarmati Gas Limited (SGL):
+  - sabarmati gas limited
+  - s g l
+  Torrent Gas:
+  - torrent gas
+  Tripura Natural Gas:
+  - tripura natural gas
+  Unique Central Piped Gases Pvt Ltd (UCPGPL):
+  - unique central piped gases private limited
+  - u c p g p l
+  Vadodara Gas Limited:
+  - vadodara gas limited
 # state_name:
 #   Andaman and Nicobar:
 #   - andaman and nicobar
@@ -1351,3 +1362,22 @@ bank_name:
 #   - w b
 #   - bengal
 #   - paschim bangal
+telephone_operator:
+  Airtel:
+  - Airtel
+  - Bharti Airtel
+  BSNL:
+  - BSNL
+  MTNL:
+  - Dolphin
+  - Trump
+  - MTNL
+  Jio:
+  - Jio
+  - Reliance Jio
+  - jeo
+  - geo
+  Vodafone:
+  - VI
+  - Vodafone
+  - Idea

@@ -1,7 +1,7 @@
 supported_languages:
   - en
   - hi
-  - ta
+  # - ta
   # - or
 
 asr:
@@ -37,7 +37,7 @@ asr:
 intent:
   model_path: intent/models/all-lang-all/checkpoint-3000
   label_dict_path: intent/models/all-lang-all/labels-dict.pkl
-  confidence_threshold: 0.85
+  confidence_threshold: 0.75
   supported_intents:
   - balance_check
   - cancel
@@ -67,3 +67,6 @@ entities:
   - vehicle_number
   - mobile_number
   - amount_of_money
+  - telephone_operator
+  - lpg_gas_provider_name
+  - pipe_gas_provider_name

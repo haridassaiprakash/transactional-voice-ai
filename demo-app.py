@@ -6,7 +6,6 @@ import gradio as gr
 import shortuuid
 import base64
 import shutil
-from asr_new_pipeline.new_asr import *
 from azure.identity import DefaultAzureCredential
 from azure.storage.blob import BlobServiceClient
 
@@ -28,7 +27,6 @@ account_url = "your_storage_account_url"
 container_name = "your_container_name"
 credential = "your_blob_credential"
 prediction_pipeline = PredictionPipeline()
-asr_service = ASRService()
 
 def upload_audio_to_blob(file_path, uuid):
     blob_name = f"audio-{uuid}.wav"

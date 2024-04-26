@@ -1,7 +1,8 @@
 import argparse
 import os
 import time
-
+import librosa
+import soundfile as sf
 import conformer
 import hotword_utils
 import pandas as pd
@@ -14,15 +15,22 @@ AUDIO_SAVE_PATH = "asr/testing/audio/"
 def download_audio(URL):
     audio_name = URL.rsplit("/")[-1][:-4]
     save_path = os.path.join(AUDIO_SAVE_PATH, "{}.wav".format(audio_name))
-    if os.path.isfile(save_path):
-        return save_path
 
-    try:
-        audio = requests.get(URL).content
-    except:
-        return None
-    with open(save_path, "wb") as f:
-        f.write(audio)
+    audio_content = requests.get(URL).content
+    temp_file_path = os.path.join(AUDIO_SAVE_PATH, "temp.wav")
+    with open(temp_file_path, "wb") as f:
+        f.write(audio_content)
+    
+    y, sr = librosa.load(temp_file_path, sr=None)  
+    if sr != 16000:
+        y = librosa.resample(y, orig_sr=sr, target_sr=16000)
+        sf.write(save_path, y, 16000)
+    else:
+        sf.write(save_path, y, sr) 
+    
+    os.remove(temp_file_path)
+    y, sr = librosa.load(save_path, sr=None)
+    
     return save_path
 
 
@@ -74,7 +82,7 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--model-path", required=True)
-    parser.add_argument("--lang", choices=["en", "hi", "or", "ta"], required=True)
+    parser.add_argument("--lang", choices=["en", "hi", "or", "ta","kn","pa","gu","bn","ml","mr","te"], required=True)
     parser.add_argument(
         "--hotword-mode",
         choices=["none"] + list(hotword_utils.hotword_to_fn.keys()),

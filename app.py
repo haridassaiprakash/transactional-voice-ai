@@ -3,6 +3,7 @@ import base64
 import os
 from datetime import datetime
 import requests
+import shortuuid
 from azure.storage.blob import BlobServiceClient, BlobClient
 from flask import Flask, jsonify, request
 from pipeline import PredictionPipeline

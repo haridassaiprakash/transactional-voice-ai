@@ -2,13 +2,9 @@ import argparse
 import base64
 import os
 from datetime import datetime
-
 import requests
-import shortuuid
-from azure.identity import DefaultAzureCredential
-from azure.storage.blob import BlobServiceClient
+from azure.storage.blob import BlobServiceClient, BlobClient
 from flask import Flask, jsonify, request
-
 from pipeline import PredictionPipeline
 
 parser = argparse.ArgumentParser()
@@ -17,39 +13,37 @@ args = parser.parse_args()
 
 app = Flask(__name__)
 
-LOGGER_DB_PATH = "db/logger.tsv"
-FEEDBACK_DB_PATH = "db/feedback.tsv"
+LOGGER_DB_PATH = "db/new-npci-logger.tsv"
+FEEDBACK_DB_PATH = "db/npci-feedback.tsv"
 
-AZURE_ACCCOUNT_URL = "https://classlm.blob.core.windows.net"
-AZURE_CONTAINER = "backend-logs"
-
+account_url = "your_storage_account_url"
+container_name = "your_container_name"
+credential = "your_blob_credential"
 prediction_pipeline = PredictionPipeline()
 
 
-def upload_audio(fpath):
-    default_credential = DefaultAzureCredential()
+def upload_audio_to_blob(file_path, uuid):
+    blob_name = f"{uuid}.wav"
+    blob_service_client = BlobServiceClient(account_url=account_url, credential=credential)
+    blob_client = blob_service_client.get_blob_client(container=container_name, blob=blob_name)
 
-    blob_service_client = BlobServiceClient(
-        AZURE_ACCCOUNT_URL, credential=default_credential
-    )
-    blob_client = blob_service_client.get_blob_client(
-        container=AZURE_CONTAINER, blob=fpath.split("/")[-1]
-    )
-
-    with open(file=fpath, mode="rb") as data:
+    with open(file_path, "rb") as data:
         blob_client.upload_blob(data)
 
 
+
 def get_predictions(language, audio_data, hotword_list, hotword_weight):
+    client_ip = request.remote_addr
     uuid = shortuuid.uuid()
-    new_file = os.path.join("/tmp", f"{uuid}.wav")
+    tmp_dir = "/tmp" 
+    new_file = os.path.join(tmp_dir, f"{uuid}.wav")
     with open(new_file, "wb") as f:
         f.write(audio_data)
+    print(f"File created at: {new_file}")
 
     predictions = prediction_pipeline.predict(
         new_file, language, hotword_list, hotword_weight
     )
-
     now = datetime.now()
     dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
 
@@ -65,7 +59,9 @@ def get_predictions(language, audio_data, hotword_list, hotword_weight):
     )
     with open(LOGGER_DB_PATH, "a") as f:
         f.write(row)
-    upload_audio(new_file)
+
+    upload_audio_to_blob(new_file, uuid)
+
     return (
         predictions["transcript_itn"],
         predictions["intent"],
@@ -120,7 +116,6 @@ def transcribe():
             ],
         }
         return jsonify(output_dict)
-
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=args.port)

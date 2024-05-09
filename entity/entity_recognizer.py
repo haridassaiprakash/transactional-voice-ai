@@ -151,7 +151,8 @@ class EntityRecognizer:
             "ರೂಪಾಯದ್ದು",
             "ರುಪಾಯ್ದ್",
             "ರೂಪಾಯಿ",
-            "ರೂಪಾಯಿದ್ದ"
+            "ರೂಪಾಯಿದ್ದ",
+            "ರೂಪೀಸ್",
             "ಹಣ",
             "ਰੁਪਇਆ",
             "ਰੁਪਆਂ",
@@ -163,6 +164,7 @@ class EntityRecognizer:
             "രൂപയുടെ",
             "രൂപയു",
             "രൂപ",
+            "ர ூபாய்"
         ]
         for ss in remove_rupees_substring:
             ent_val = ent_val.replace(ss, "")

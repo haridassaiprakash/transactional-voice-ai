@@ -1612,81 +1612,81 @@ lpg_gas_provider_name:
   - jyothi gas private limited
   - jyothi gas
   - jyoti gas
-pipe_gas_provider_name:
-  Aavantika Gas Ltd.:
-  - aavantika gas limited
-  Adani Total Gas Limited:
-  - adani total gas limited
-  - adani gas
-  - adani total
-  - adani pipe gas
-  Assam Gas Company Limited:
-  - assam gas company limited
-  - assam gas company
-  - assam gas
-  Bhagyanagar Gas Limited:
-  - bhagyanagar gas limited
-  Central U.P. Gas Limited:
-  - central u p gas limited
-  Charotar Gas Sahakari Mandali Ltd:
-  - charotar gas sahakari mandali limited
-  GAIL Gas Limited:
-  - gail gas limited
-  - gail
-  GAIL India Limited:
-  - gail india limited
-  - gail india
-  Green Gas Limited(GGL):
-  - green gas limited
-  - green gas
-  - g g l
-  Gujarat Gas Limited:
-  - gujarat gas limited
-  Gujarat State Petronet Limited:
-  - gujarat state petronet limited
-  Haryana City Gas - Kapil Chopra Enterprise:
-  - haryana city gas kapil chopra enterprise
-  - haryana city gas
-  - kapil chopra enterprise
-  IRM Energy Private Limited:
-  - i r m energy private limited
-  Indian Oil Corporation Ltd-Piped Gas:
-  - indian oil corporation limited piped gas
-  - iocl
-  - indian oil
-  Indian Oil-Adani Gas Private Limited:
-  - indian oil adani gas private limited
-  Indraprastha Gas:
-  - indraprastha gas
-  - i g l
-  - indraprastha gas
-  Mahanagar Gas Limited:
-  - mahanagar gas limited
-  - mahanagar gas
-  Maharashtra Natural Gas Limited (MNGL):
-  - maharashtra natural gas limited
-  - m n g l
-  - maharashtra gas limited
-  Megha Gas:
-  - megha gas
-  Naveriya Gas Pvt Ltd:
-  - naveriya gas private limited
-  Purba Bharati Gas Pvt Ltd:
-  - purba bharati gas private limited
-  Rajasthan State Gas Limited:
-  - rajasthan state gas limited
-  Sabarmati Gas Limited (SGL):
-  - sabarmati gas limited
-  - s g l
-  Torrent Gas:
-  - torrent gas
-  Tripura Natural Gas:
-  - tripura natural gas
-  Unique Central Piped Gases Pvt Ltd (UCPGPL):
-  - unique central piped gases private limited
-  - u c p g p l
-  Vadodara Gas Limited:
-  - vadodara gas limited
+# pipe_gas_provider_name:
+#   Aavantika Gas Ltd.:
+#   - aavantika gas limited
+#   Adani Total Gas Limited:
+#   - adani total gas limited
+#   - adani gas
+#   - adani total
+#   - adani pipe gas
+#   Assam Gas Company Limited:
+#   - assam gas company limited
+#   - assam gas company
+#   - assam gas
+#   Bhagyanagar Gas Limited:
+#   - bhagyanagar gas limited
+#   Central U.P. Gas Limited:
+#   - central u p gas limited
+#   Charotar Gas Sahakari Mandali Ltd:
+#   - charotar gas sahakari mandali limited
+#   GAIL Gas Limited:
+#   - gail gas limited
+#   - gail
+#   GAIL India Limited:
+#   - gail india limited
+#   - gail india
+#   Green Gas Limited(GGL):
+#   - green gas limited
+#   - green gas
+#   - g g l
+#   Gujarat Gas Limited:
+#   - gujarat gas limited
+#   Gujarat State Petronet Limited:
+#   - gujarat state petronet limited
+#   Haryana City Gas - Kapil Chopra Enterprise:
+#   - haryana city gas kapil chopra enterprise
+#   - haryana city gas
+#   - kapil chopra enterprise
+#   IRM Energy Private Limited:
+#   - i r m energy private limited
+#   Indian Oil Corporation Ltd-Piped Gas:
+#   - indian oil corporation limited piped gas
+#   - iocl
+#   - indian oil
+#   Indian Oil-Adani Gas Private Limited:
+#   - indian oil adani gas private limited
+#   Indraprastha Gas:
+#   - indraprastha gas
+#   - i g l
+#   - indraprastha gas
+#   Mahanagar Gas Limited:
+#   - mahanagar gas limited
+#   - mahanagar gas
+#   Maharashtra Natural Gas Limited (MNGL):
+#   - maharashtra natural gas limited
+#   - m n g l
+#   - maharashtra gas limited
+#   Megha Gas:
+#   - megha gas
+#   Naveriya Gas Pvt Ltd:
+#   - naveriya gas private limited
+#   Purba Bharati Gas Pvt Ltd:
+#   - purba bharati gas private limited
+#   Rajasthan State Gas Limited:
+#   - rajasthan state gas limited
+#   Sabarmati Gas Limited (SGL):
+#   - sabarmati gas limited
+#   - s g l
+#   Torrent Gas:
+#   - torrent gas
+#   Tripura Natural Gas:
+#   - tripura natural gas
+#   Unique Central Piped Gases Pvt Ltd (UCPGPL):
+#   - unique central piped gases private limited
+#   - u c p g p l
+#   Vadodara Gas Limited:
+#   - vadodara gas limited
 # state_name:
 #   Andaman and Nicobar:
 #   - andaman and nicobar

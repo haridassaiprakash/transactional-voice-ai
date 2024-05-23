@@ -2031,7 +2031,6 @@ bank_name:
   Yes Bank:
   - येस बँक
   - एस बँक
-  - एस 
   - येस बँकेचं
   - यस बँक
   ADARNIYA P D PATILSAHEB SAHAKARI BANK LTD KARAD:
@@ -2764,81 +2763,81 @@ bank_name:
   - वाना नागरिक सहकारी बँकेमधून
   - वाना नागरिक सहकारी बँकेचं
   - वाना नागरिक सहकारी बँकच्या
-pipe_gas_provider_name:
-  Aavantika Gas Ltd.:
-  - आवंतिका गॅस लिमिटेड
-  Adani Total Gas Limited:
-  - अदानी टोटल गॅस लिमिटेड
-  - अदानी गॅस
-  - अदानी टोटल
-  - अदानी पाईप गॅस
-  Assam Gas Company Limited:
-  - असाम गॅस कंपनी लिमिटेड
-  - असाम गॅस कंपनी
-  - असाम गॅस
-  Bhagyanagar Gas Limited:
-  - भाग्यनगर गॅस लिमिटेड
-  Central U.P. Gas Limited:
-  - सेन्ट्रल यू पी गैस लिमिटेड
-  Charotar Gas Sahakari Mandali Ltd:
-  - चारोतार गॅस सहकारी मंडळी लिमिटेड
-  GAIL Gas Limited:
-  - गेल गॅस लिमिटेड
-  - गेल
-  GAIL India Limited:
-  - गेल इंडिया लिमिटेड
-  - गेल इंडिया
-  Green Gas Limited(GGL):
-  - ग्रीन गॅस लिमिटेड
-  - ग्रीन गॅस
-  - जी जी एल
-  Gujarat Gas Limited:
-  - गुजरात गॅस लिमिटेड
-  Gujarat State Petronet Limited:
-  - गुजरात स्टेट पेट्रोनेट लिमिटेड
-  Haryana City Gas - Kapil Chopra Enterprise:
-  - हरयाणा सिटी गॅस कपिल चोप्रा एंटरप्राइज
-  - हरयाणा सिटी गॅस
-  - कपिल चोप्रा एंटरप्राइज
-  IRM Energy Private Limited:
-  - आय आर एम एनर्जी प्रायव्हेट लिमिटेड
-  Indian Oil Corporation Ltd-Piped Gas:
-  - इंडियन ऑइल कॉर्पोरेशन लिमिटेड पाईप्ड गॅस
-  - आयओसीएल
-  - इंडियन ऑइल
-  Indian Oil-Adani Gas Private Limited:
-  - इंडियन ऑइल अदानी गॅस प्रायव्हेट लिमिटेड
-  Indraprastha Gas:
-  - इंद्रप्रस्थ गॅस
-  - आय जी ल
-  - इंद्रप्रस्थ गॅस
-  Mahanagar Gas Limited:
-  - महानगर गॅस लिमिटेड
-  - महानगर गॅस
-  Maharashtra Natural Gas Limited (MNGL):
-  - महाराष्ट्र नॅचरल गॅस लिमिटेड
-  - एम न जी ल
-  - महाराष्ट्र गॅस लिमिटेड
-  Megha Gas:
-  - मेघा गॅस
-  Naveriya Gas Pvt Ltd:
-  - नवेरिया गॅस प्रायव्हेट लिमिटेड
-  Purba Bharati Gas Pvt Ltd:
-  - पुरबा भारती गॅस प्रायव्हेट लिमिटेड
-  Rajasthan State Gas Limited:
-  - राजस्थान स्टेट गॅस लिमिटेड
-  Sabarmati Gas Limited (SGL):
-  - साबरमती गॅस लिमिटेड
-  - एस जी एल
-  Torrent Gas:
-  - टोरेंट गॅस
-  Tripura Natural Gas:
-  - त्रिपुरा नॅचरल गॅस
-  Unique Central Piped Gases Pvt Ltd (UCPGPL):
-  - युनिक सेंट्रल पाईप्ड गेसेस प्रायव्हेट लिमिटेड
-  - यू सी पी जी पी एल
-  Vadodara Gas Limited:
-  - वडोदरा गॅस लिमिटेड
+# pipe_gas_provider_name:
+#   Aavantika Gas Ltd.:
+#   - आवंतिका गॅस लिमिटेड
+#   Adani Total Gas Limited:
+#   - अदानी टोटल गॅस लिमिटेड
+#   - अदानी गॅस
+#   - अदानी टोटल
+#   - अदानी पाईप गॅस
+#   Assam Gas Company Limited:
+#   - असाम गॅस कंपनी लिमिटेड
+#   - असाम गॅस कंपनी
+#   - असाम गॅस
+#   Bhagyanagar Gas Limited:
+#   - भाग्यनगर गॅस लिमिटेड
+#   Central U.P. Gas Limited:
+#   - सेन्ट्रल यू पी गैस लिमिटेड
+#   Charotar Gas Sahakari Mandali Ltd:
+#   - चारोतार गॅस सहकारी मंडळी लिमिटेड
+#   GAIL Gas Limited:
+#   - गेल गॅस लिमिटेड
+#   - गेल
+#   GAIL India Limited:
+#   - गेल इंडिया लिमिटेड
+#   - गेल इंडिया
+#   Green Gas Limited(GGL):
+#   - ग्रीन गॅस लिमिटेड
+#   - ग्रीन गॅस
+#   - जी जी एल
+#   Gujarat Gas Limited:
+#   - गुजरात गॅस लिमिटेड
+#   Gujarat State Petronet Limited:
+#   - गुजरात स्टेट पेट्रोनेट लिमिटेड
+#   Haryana City Gas - Kapil Chopra Enterprise:
+#   - हरयाणा सिटी गॅस कपिल चोप्रा एंटरप्राइज
+#   - हरयाणा सिटी गॅस
+#   - कपिल चोप्रा एंटरप्राइज
+#   IRM Energy Private Limited:
+#   - आय आर एम एनर्जी प्रायव्हेट लिमिटेड
+#   Indian Oil Corporation Ltd-Piped Gas:
+#   - इंडियन ऑइल कॉर्पोरेशन लिमिटेड पाईप्ड गॅस
+#   - आयओसीएल
+#   - इंडियन ऑइल
+#   Indian Oil-Adani Gas Private Limited:
+#   - इंडियन ऑइल अदानी गॅस प्रायव्हेट लिमिटेड
+#   Indraprastha Gas:
+#   - इंद्रप्रस्थ गॅस
+#   - आय जी ल
+#   - इंद्रप्रस्थ गॅस
+#   Mahanagar Gas Limited:
+#   - महानगर गॅस लिमिटेड
+#   - महानगर गॅस
+#   Maharashtra Natural Gas Limited (MNGL):
+#   - महाराष्ट्र नॅचरल गॅस लिमिटेड
+#   - एम न जी ल
+#   - महाराष्ट्र गॅस लिमिटेड
+#   Megha Gas:
+#   - मेघा गॅस
+#   Naveriya Gas Pvt Ltd:
+#   - नवेरिया गॅस प्रायव्हेट लिमिटेड
+#   Purba Bharati Gas Pvt Ltd:
+#   - पुरबा भारती गॅस प्रायव्हेट लिमिटेड
+#   Rajasthan State Gas Limited:
+#   - राजस्थान स्टेट गॅस लिमिटेड
+#   Sabarmati Gas Limited (SGL):
+#   - साबरमती गॅस लिमिटेड
+#   - एस जी एल
+#   Torrent Gas:
+#   - टोरेंट गॅस
+#   Tripura Natural Gas:
+#   - त्रिपुरा नॅचरल गॅस
+#   Unique Central Piped Gases Pvt Ltd (UCPGPL):
+#   - युनिक सेंट्रल पाईप्ड गेसेस प्रायव्हेट लिमिटेड
+#   - यू सी पी जी पी एल
+#   Vadodara Gas Limited:
+#   - वडोदरा गॅस लिमिटेड
 lpg_gas_provider_name:
   Hindustan Petroleum Corporation Ltd.:
   - हिंदुस्तान पेट्रोलियम कॉर्पोरेशन लिमिटेड

@@ -455,7 +455,9 @@ bank_name:
   - हिंमतनगर नागारिक सहाकारी बैंक लिमिटेड
   - हिम्मतनगर नागरिक सहकारी बैंक लिमिटेड
   - हिम्मतनगर नागरिक सहकारी बैंक
-  Hutatma Co Op Bank Ltd: []
+  Hutatma Co Op Bank Ltd:
+  - हुतात्मा को ऑप बैंक लिमिटेड
+  - हुतात्मा को ऑप बैंक
   ICICI Bank:
   - आईसीआईसीआई बैंक
   - आईसीआईसीआई
@@ -518,6 +520,7 @@ bank_name:
   - इंडसइण्ड
   Irinjalakuda Town Co-Operative Bank Ltd:
   - इरिंजालाकुडा टॉन कोऑपरेटिव बैंक लिमिटेड
+  - इरिंजालाकुडा टॉन कोऑपरेटिव बैंक
   J & K Grameen Bank:
   - जे एन्ड के ग्रामीण बैंक
   - जम्मू कश्मीर ग्रामीण बैंक
@@ -579,9 +582,11 @@ bank_name:
   Jivan Commercial Co-operative Bank Ltd:
   - जीवन कॉमर्शियल कोऑपरेटिव बैंक लिमिटेड
   - जिवन कॉमर्शियल कोऑपरेटिव बैंक लिमिटेड
+  - जिवन कॉमर्शियल कोऑपरेटिव बैंक
   Jodhpur Nagrik Sahakari Bank Limited:
   - जोधापुर नाग्रिक सहाकारी बैंक लिमिटेड
   - जोधपुर नागरिक सहकारी बैंक लिमिटेड
+  - जोधपुर नागरिक सहकारी बैंक
   Kallapanna Arwade Ichalkaranji Janata sahakari Bank:
   - कल्लापन्न अरवाडे इचलकरनजी जनाता सहाकारी बैंक
   Kalupur Commercial Bank:
@@ -618,8 +623,10 @@ bank_name:
   - केरला ग्रामीण बैंक
   Kokan Merchantile Co-operative Bank Ltd:
   - कोकण मर्चेन्टाइल कोऑपरेटिव बैंक लिमिटेड
+  - कोकण मर्चेन्टाइल कोऑपरेटिव बैंक
   Kolhapur District Central Co-operative Bank Limited:
   - कोल्हापूर डिस्ट्रीक्ट सेन्ट्रल कोऑपरेटिव बैंक लिमिटेड
+  - कोल्हापूर डिस्ट्रीक्ट सेन्ट्रल कोऑपरेटिव बैंक
   Kolhapur Mahila Sahakari Bank Ltd:
   - कोल्हापूर माहिला सहाकारी बैंक लिमिटेड
   - कोल्हापूर महिला सहकारी बैंक लिमिटेड
@@ -739,8 +746,10 @@ bank_name:
   Navsarjan Industrial Co-Op Bank Ltd:
   - नवसरजन इंडस्ट्रीयल को ऑप बैंक लिमिटेड
   - नवसरजन इंडस्ट्रीयल को ऑप बैंक लिमिटेड
+  - नवसरजन इंडस्ट्रीयल को ऑप बैंक
   North East Small Finance Bank Limited:
   - नार्थ इस्ट स्माल फाइनैंस बैंक लिमिटेड
+  - नार्थ इस्ट स्माल फाइनैंस बैंक
   Nutan NagrikSahakari Bank:
   - नुतान नागरीकसहकारी बैंक
   - नूतन नागरिक सहकारी बैंक
@@ -776,6 +785,7 @@ bank_name:
   - पेटीएम पेमेंट बैंक
   Peoples Urban Co-operative Bank Ltd:
   - पीपल्स अर्बन कोऑपरेटिव बैंक लिमिटेड
+  - पीपल्स अर्बन कोऑपरेटिव बैंक
   Pockets by ICICI Bank:
   - पॉकेट्स बाय आई सी आई सी आई बैंक
   - पॉकेट्स
@@ -791,13 +801,17 @@ bank_name:
   - प्रथमा बैंक
   Prime Co-operative Bank Ltd.:
   - प्राईम कोऑपरेटिव बैंक लिमिटेड
+  - प्राईम कोऑपरेटिव बैंक
   Priyadarshini Nagari Sahakari Bank Ltd Jalna:
   - प्रियदर्शनी नगरी सहकारी बैंक लिमिटेड जालना
   - प्रियदर्शनी नागरी सहाकारी बैंक लिमिटेड जालना
+  - प्रियदर्शनी नागरी सहाकारी बैंक
   Pune Cantonment Sahakari Bank Ltd:
   - पुने कैन्टोनमेंट सहाकारी बैंक लिमिटेड
+  - पुने कैन्टोनमेंट सहाकारी बैंक
   Pune Urban Co-operative Bank Ltd:
   - पुने अर्बन कोऑपरेटिव बैंक लिमिटेड
+  - पुने अर्बन कोऑपरेटिव बैंक
   Punjab & Sind Bank:
   - पंजाब एन्ड सिंध बैंक
   - पंजाब एंड सिंध बैंक
@@ -816,6 +830,7 @@ bank_name:
   Rajarambapu Sahakari Bank Ltd:
   - राजारामबापू सहकारी बैंक लिमिटेड
   - राजरामबापू सहाकारी बैंक लिमिटेड
+  - राजरामबापू सहाकारी बैंक
   Rajarshi Shahu Sahakari Bank Limited:
   - राजर्षी शाहु सहकारी बैंक लिमिटेड
   - राजर्षी शाहु सहाकारी बैंक लिमिटेड
@@ -833,12 +848,14 @@ bank_name:
   Rajkot Peoples Cooperative Bank Ltd:
   - राजकोट पीपल्स कोऑपरेटिव बैंक लिमिटेड
   - रजकोट पीपल्स कोऑपरेटिव बैंक लिमिटेड
+  - रजकोट पीपल्स कोऑपरेटिव बैंक
   Rani Channamma Mahila Sahakari Bank Belagavi:
   - रानी चन्नामा महिला सहकारी बैंक बेलागावी
   - राणी चन्नामा माहिला सहाकारी बैंक बेलागावी
   SAMATA SAHAKARI BANK LTD:
   - समाता सहाकारी बैंक लिमिटेड
   - समता सहकारी बैंक लिमिटेड
+  - समता सहकारी बैंक
   SBM Bank:
   - एस बी एम बैंक
   - स्टेट बैंक औफ मॉरिशस 
@@ -862,8 +879,10 @@ bank_name:
   Samarth Sahakari Bank Limited:
   - सामर्थ सहाकारी बैंक लिमिटेड
   - समर्थ सहकारी बैंक लिमिटेड
+  - समर्थ सहकारी बैंक
   Samruddhi Co-operative Bank Ltd:
   - समरुद्धि कोऑपरेटिव बैंक लिमिटेड
+  - समरुद्धि कोऑपरेटिव बैंक
   Sandur Pattana Souharda Sahakari Bank:
   - संदुर पटाना सौहार्द सहकारी बैंक
   - संदुर पटाना सौहार्दा सहाकारी बैंक
@@ -1359,6 +1378,416 @@ bank_name:
   - लक्ष्मी नरसिम्हा स्वामि को ऑप बैंक
   Yes Bank:
   - यस बैंक
+  ADARNIYA P D PATILSAHEB SAHAKARI BANK LTD KARAD:
+  - अदरणीय पी डी पाटीलसाहेब सहकारी बैंक लिमिटेड कराड
+  - अदरणीय पी डी पाटीलसाहेब सहकारी बैंक
+  AMAN SAHAKARI BANK LTD.,ICHALKARANJI:
+  - अमन सहकारी बैंक लिमिटेड इचलकरंजी
+  - अमन सहकारी बैंक
+  Abhinandan Urban Coop Bank Amravati:
+  - अभिनंदन अर्बन कूप बैंक अमरावती
+  - अभिनंदन अर्बन कूप बैंक
+  Adilabad District Coop Central Bank Ltd:
+  - आदिलाबाद डिस्ट्रिक्ट कूप सेंट्रल बैंक लिमिटेड
+  - आदिलाबाद डिस्ट्रिक्ट कूप सेंट्रल बैंक
+  Alavi Cooperative Bank Ltd:
+  - अलावी कोआपरेटिव बैंक लिमिटेड
+  - अलावी कोआपरेटिव बैंक
+  Appasaheb Birnale Sahakari Bank Ltd Dudhgaon:
+  - अप्पासाहेब बिरनाले सहकारी बैंक लिमिटेड दुधगांव
+  - अप्पासाहेब बिरनाले सहकारी बैंक
+  Appnit Technologies Pvt. Ltd.:
+  - एप्निट टेक्नोलॉजीज पीवीटी लिमिटेड
+  Aryavart Bank:
+  - आर्यावर्त बैंक
+  BRAHMADEODADA MANE SAHAKARI BANK LTD SOLAPUR:
+  - ब्रह्मदेवदादा माने सहकारी बैंक लिमिटेड सोलापुर
+  - ब्रह्मदेवदादा माने सहकारी बैंक
+  Betul Nagrik Sahakari Bank Ltd:
+  - बेतुल नागरिक सहकारी बैंक लिमिटेड
+  - बेतुल नागरिक सहकारी बैंक
+  Bhagini Nivedita Sahakari Bank Ltd,Pune:
+  - भगिनी निवेदिता सहकारी बैंक लिमिटेड पुणे
+  - भगिनी निवेदिता सहकारी बैंक
+  CSB Bank Limited:
+  - सीएसबी बैंक लिमिटेड
+  - सीएसबी बैंक
+  Chaitanya Mahila Bank:
+  - चैतन्य महिला बैंक
+  Chittorgarh Urban Co-operative Bank Ltd:
+  - चित्तोड़गढ़ अर्बन सीओ ऑपरेटिव बैंक लिमिटेड
+  - चित्तोड़गढ़ अर्बन सीओ ऑपरेटिव बैंक
+  Citizen Credit Co-Operative Bank Ltd.:
+  - सिटीजन क्रेडिट सीओ-ऑपरेटिव बैंक लिमिटेड
+  - सिटीजन क्रेडिट सीओ-ऑपरेटिव बैंक
+  DAIVADNYA SAHAKAR BANK NIYAMIT:
+  - दैवज्ञ सहकार बैंक नियमित
+  - दैवज्ञ सहकार बैंक
+  District Coop Central Bank Ltd,Khammam:
+  - डिस्ट्रिक्ट कूप सेंट्रल बैंक लिमिटेड खम्मम
+  - डिस्ट्रिक्ट कूप सेंट्रल बैंक
+  Dr. Annasaheb Chougule Urban Co-Op. Bank Ltd.,Peth Vadgaon:
+  - डीआर. अण्णासाहेब चौगुले अर्बन सीओ-ओप. बैंक लिमिटेड पेठ वडगांव
+  - डीआर. अण्णासाहेब चौगुले अर्बन सीओ-ओप. बैंक
+  Dr. Appasaheb Urf Sa. Re. Patil Jaysingpur Udgaon Sahakari Bank Ltd Jaysingpur:
+  - डीआर. अप्पासाहेब उर्फ सा. रे. पाटिल जयसिंगपुर उदगांव सहकारी बैंक लिमिटेड जयसिंगपुर
+  - डीआर. अप्पासाहेब उर्फ सा. रे. पाटिल जयसिंगपुर उदगांव सहकारी बैंक
+  Garagepreneurs Internet Pvt. Ltd.:
+  - गैरेजप्रेन्योर्स इंटरनेट पीवीटी लिमिटेड
+  Hadagali Urban Co-Operative Bank Ltd:
+  - हडगली अर्बन सीओ-ऑपरेटिव बैंक लिमिटेड
+  - हडगली अर्बन सीओ-ऑपरेटिव बैंक
+  Haveli Sahakari Bank Maryadit.:
+  - हवेली सहकारी बैंक मर्यादित
+  - हवेली सहकारी बैंक
+  IDFC Bank:
+  - आईडीएफसी बैंक
+  ILKAL CO-OPERATIVE BANK LTD ILKAL:
+  - इल्कल सीओ-ऑपरेटिव बैंक लिमिटेड इल्कल
+  - इल्कल सीओ-ऑपरेटिव बैंक
+  Idar Nagrik Sahakari Bank Ltd.:
+  - इदर नागरिक सहकारी बैंक लिमिटेड
+  - दर नागरिक सहकारी बैंक
+  Indore Cloth Market Co-Op Bank Ltd:
+  - इंडोर क्लॉथ मार्केट सीओ-ओप बैंक लिमिटेड
+  - इंडोर क्लॉथ मार्केट सीओ-ओप बैंक
+  Indraprastha Sehkari Bank Ltd:
+  - इंद्रप्रस्थ सहकारी बैंक लिमिटेड
+  - इंद्रप्रस्थ सहकारी बैंक
+  Jalore Nagrik Sahakari Bank Ltd:
+  - जालोर नागरिक सहकारी बैंक लिमिटेड
+  - जालोर नागरिक सहकारी बैंक
+  Jamia Co-Operative Bank Ltd:
+  - जामिया सीओ-ऑपरेटिव बैंक लिमिटेड
+  - जामिया सीओ-ऑपरेटिव बैंक
+  Janata Sahakari Bank Ltd., Ajara:
+  - जनता सहकारी बैंक लिमिटेड अजारा
+  - जनता सहकारी बैंक
+  Jankalyan Urban Co-Operative Bank Ltd:
+  - जनकल्याण अर्बन सीओ-ऑपरेटिव बैंक लिमिटेड
+  - जनकल्याण अर्बन सीओ-ऑपरेटिव बैंक
+  Jogindra Central Cooperative Bank Limited:
+  - जोगिंद्र सेंट्रल कोआपरेटिव बैंक लिमिटेड
+  - जोगिंद्र सेंट्रल कोआपरेटिव बैंक
+  Kashi Gomati Samyut Grameen Bank:
+  - काशी गोमती संयुत ग्रामीण बैंक
+  Kerala State Co-operative Bank Ltd:
+  - केराला स्टेट सीओ-ऑपरेटिव बैंक लिमिटेड
+  - केराला स्टेट सीओ-ऑपरेटिव बैंक
+  Khardah Co-operative Bank Ltd.:
+  - खरदाह सीओ-ऑपरेटिव बैंक लिमिटेड
+  - खरदाह सीओ-ऑपरेटिव बैंक
+  Koyana Sahakari bank Ltd, Karad:
+  - कोयना सहकारी बैंक लिमिटेड कराड
+  - कोयना सहकारी बैंक
+  Krishna Mercantile Cooperative Bank Ltd Bhopal:
+  - कृष्ण मर्केंटाइल कोआपरेटिव बैंक लिमिटेड भोपाल
+  - कृष्ण मर्केंटाइल कोआपरेटिव बैंक
+  LOKMANGAL CO OP BANK LTD SOLAPUR:
+  - लोकमंगल सीओ ओप बैंक लिमिटेड सोलापुर
+  - लोकमंगल सीओ ओप बैंक
+  Lakhimpur Urban Cooperative Bank Ltd.:
+  - लखीमपुर अर्बन कोआपरेटिव बैंक लिमिटेड
+  - लखीमपुर अर्बन कोआपरेटिव बैंक
+  Laxmi Urban Co-Op. Bank Ltd. Latur.:
+  - लक्ष्मी अर्बन सीओ-ओप बैंक लिमिटेड लातूर
+  - लक्ष्मी अर्बन सीओ ओप बैंक
+  Mahesh Urban Co-operative Bank, Parbhani:
+  - महेश अर्बन सीओ-ऑपरेटिव बैंक परभानी
+  - महेश अर्बन सीओ-ऑपरेटिव बैंक
+  Merchants liberal Co operative Bank Ltd Gadag:
+  - मर्चेंट लिबरल सीओ ऑपरेटिव बैंक लिमिटेड गदग
+  - मर्चेंट लिबरल सीओ ऑपरेटिव बैंक
+  Muzaffarnagar District Cooperative Bank Ltd:
+  - मुजफ्फरनगर डिस्ट्रिक्ट कोआपरेटिव बैंक लिमिटेड
+  - मुजफ्फरनगर डिस्ट्रिक्ट कोआपरेटिव बैंक
+  NAVANAGARA URBAN CO-OPERATIVE BANK LTD.:
+  - नवानगर अर्बन सीओ-ऑपरेटिव बैंक लिमिटेड
+  - नवानगर अर्बन सीओ-ऑपरेटिव बैंक
+  Nalgonda District Coop Central Bank Ltd:
+  - नालगोंडा डिस्ट्रिक्ट कूप सेंट्रल बैंक लिमिटेड
+  - नालगोंडा डिस्ट्रिक्ट कूप सेंट्रल बैंक
+  New India Co-op Bank:
+  - न्यू इंडिया सीओ-ओप बैंक
+  One MobiKwik Systems Limited:
+  - ओने मोबिक्विक सिस्टम लिमिटेड
+  PDP BANK KARAD bank:
+  - पीडीपी बैंक कराड बैंक
+  Pay Point India Network Private Limited:
+  - पे पॉइंट इंडिया नेटवर्क प्राइवेट लिमिटेड
+  PayU Payments Private Limited:
+  - पायु पेमेंट्स प्राइवेट लिमिटेड
+  Priyadarshani Urban Co Op Bank Ltd Kallam:
+  - प्रियदर्शनी अर्बन सीओ ओप बैंक लिमिटेड कल्लम
+  - प्रियदर्शनी अर्बन सीओ ओप बैंक
+  Puduvai Bharathiar Grama Bank:
+  - पुदुवई भरतियार ग्रामा बैंक
+  Pune District Cooperative Bank:
+  - पुणे डिस्ट्रिक्ट कोआपरेटिव बैंक
+  Pusad Urban Cooperative Bank Ltd.:
+  - पुसद अर्बन कोआपरेटिव बैंक लिमिटेड
+  - पुसद अर्बन कोआपरेटिव बैंक
+  Rajapur Urban Cooperative Bank Ltd:
+  - राजापुर अर्बन कोआपरेटिव बैंक लिमिटेड
+  - राजापुर अर्बन कोआपरेटिव बैंक
+  Raje Vikramsinh Ghatge Co-Op. Bank Ltd. Kagal:
+  - राजे विक्रमसिंह घाटगे सीओ-ओप बैंक लिमिटेड कागल
+  - राजे विक्रमसिंह घाटगे सीओ-ओप बैंक
+  Rajlaxmi Urban Co-op Bank Ltd:
+  - राजलक्ष्मी अर्बन सीओ-ओप बैंक लिमिटेड
+  - राजलक्ष्मी अर्बन सीओ-ओप बैंक
+  Rapipay Fintech Private Limited:
+  - रेपीपे फिनटेक प्राइवेट लिमिटेड
+  - रेपीपे फिनटेक प्राइवेट
+  Ratnagiri District Central Co operative Bank Ltd:
+  - रत्नागिरी डिस्ट्रिक्ट सेंट्रल सीओ ऑपरेटिव बैंक लिमिटेड
+  - रत्नागिरी डिस्ट्रिक्ट सेंट्रल सीओ ऑपरेटिव बैंक
+  Reserve Bank Employees Co-opertive Bank Limited:
+  - रिजर्व बैंक एम्प्लाइज सीओ-ऑपरटिव बैंक लिमिटेड
+  - रिजर्व बैंक एम्प्लाइज सीओ-ऑपरटिव बैंक
+  SALEM DISTRICT CENTRAL COOPERATIVE BANK:
+  - सलेम डिस्ट्रिक्ट सेंट्रल कोआपरेटिव बैंक
+  SANMITRA MAHILA NAGARI SAHAKARI BANK MARYADIT CHANDRAPUR:
+  - सन्मित्र महिला नगरी सहकारी बैंक मर्यादित चंद्रपुर
+  - सन्मित्र महिला नगरी सहकारी बैंक
+  SARDAR SINGH NAGRIK SAHKARI BANK MARYADIT TIKAMGARH:
+  - सरदार सिंह नागरिक सहकारी बैंक मर्यादित टीकमगढ़
+  - सरदार सिंह नागरिक सहकारी बैंक
+  SHREE BALAJI URBAN CO OPERATIVE BANK LTD:
+  - श्री बालाजी अर्बन सीओ ऑपरेटिव बैंक लिमिटेड
+  - श्री बालाजी अर्बन सीओ ऑपरेटिव बैंक
+  Sadalga Urban Souharda Sahakari Bank Niyamit:
+  - सदलगा अर्बन सौहार्द सहकारी बैंक नियमित
+  - सदलगा अर्बन सौहार्द सहकारी बैंक
+  Saptagiri Grameena Bank:
+  - सप्तगिरि ग्रामीण बैंक
+  Shree Mahuva Nagrik Sahkari Bank Ltd.:
+  - श्री महुवा नागरिक सहकारी बैंक लिमिटेड
+  - श्री महुवा नागरिक सहकारी बैंक
+  Shri Chatrapati Shivaji Maharaj Sahakari:
+  - श्री छत्रपति शिवाजी महाराज सहकारी
+  Shri Gajanan Maharaj Urban Co-Op Bank Ltd Bhokardan:
+  - श्री गजानन महाराज अर्बन सीओ-ओप बैंक लिमिटेड भोकरदन
+  - श्री गजानन महाराज अर्बन सीओ-ओप बैंक
+  Shri Yashwant Sahakari Bank Maryadit Kuditre:
+  - श्री यशवंत सहकारी बैंक मर्यादित कुडित्रे
+  - श्री यशवंत सहकारी बैंक
+  Shri  D. T. Patil Co-opertive Bank Ltd, Chikodi:
+  - श्री डी. टी. पाटिल सीओ-ऑपरटिव बैंक लिमिटेड चिकोडी
+  - श्री डी. टी. पाटिल सीओ-ऑपरटिव बैंक
+  Sri Gokarnanath Co-Operative Bank Ltd:
+  - श्री गोकर्णनाथ सीओ-ऑपरेटिव बैंक लिमिटेड
+  - श्री गोकर्णनाथ सीओ-ऑपरेटिव बैंक
+  Sri Seetharaghava Souharda Sahakara Bank Niyamitha:
+  - श्री सीताराघव सौहार्द सहकारा बैंक नियमित
+  - श्री सीताराघव सौहार्द सहकारा बैंक
+  Sulthan Bathery Co-operative Urban Bank:
+  - सुलतान बाथरी सीओ-ऑपरेटिव अर्बन बैंक
+  THE AMRAVATI ZILLA PARISHAD SHIKSHAK SAHAKARI BANK:
+  - द अमरावती जिल्ला परिषद शिक्षक सहकारी बैंक
+  THE BURDWAN CENTRAL COOPERATIVE BANK LTD:
+  - द बर्दवान सेंट्रल कोआपरेटिव बैंक लिमिटेड
+  - द बर्दवान सेंट्रल कोआपरेटिव बैंक
+  THE CHIPLUN URBAN COOPERATIVE BANK LTD:
+  - द चिपलून अर्बन कोआपरेटिव बैंक लिमिटेड
+  - द चिपलून अर्बन कोआपरेटिव बैंक
+  THE JANATA CO-OPERATIVE BANK LTD. DELHI:
+  - द जनता सीओ-ऑपरेटिव बैंक लिमिटेड डेल्ही
+  - द जनता सीओ-ऑपरेटिव बैंक
+  THE KANGRA CENTRAL CO-OPERATIVE BANK LTD:
+  - द कांगरा सेंट्रल सीओ-ऑपरेटिव बैंक लिमिटेड
+  - द कांगरा सेंट्रल सीओ-ऑपरेटिव बैंक
+  THE NASIKROAD DEOLALI VYAPARI SAHAKARI BANK LTD.:
+  - द नासिकरोड देवलाली व्यापारी सहकारी बैंक लिमिटेड
+  - द नासिकरोड देवलाली व्यापारी सहकारी बैंक
+  THE RAIGAD DISTRICT CO OPERATIVE BANK LTD ALIBAG:
+  - द रायगढ़ डिस्ट्रिक्ट सीओ ऑपरेटिव बैंक लिमिटेड अलीबाग
+  - द रायगढ़ डिस्ट्रिक्ट सीओ ऑपरेटिव बैंक
+  Tamil Nadu Grama Bank:
+  - तमिल नाडु ग्रामा बैंक
+  The Adarsh Urban Co-op. Bank Ltd., Hyderabad:
+  - द आदर्श अर्बन सीओ-ओप बैंक लिमिटेड हैदराबाद
+  - द आदर्श अर्बन सीओ-ओप बैंक
+  The Agrasen Nagari Sahakari Bank Ltd, Akola:
+  - द अग्रसेन नगरी सहकारी बैंक लिमिटेड अकोला
+  - द अग्रसेन नगरी सहकारी बैंक
+  The Ashta Peoples Co-op Bank Ltd Ashta:
+  - द अष्ट पीपल्स सीओ-ओप बैंक लिमिटेड अष्ट
+  - द अष्ट पीपल्स सीओ-ओप बैंक
+  The Bardoli Nagrik Sahakari Bank Ltd:
+  - द बारडोली नागरिक सहकारी बैंक लिमिटेड
+  - द बारडोली नागरिक सहकारी बैंक
+  The Bavla Nagrik Sahakari Bank Ltd.:
+  - द बावला नागरिक सहकारी बैंक लिमिटेड।
+  - द बावला नागरिक सहकारी बैंक
+  The Bhagyalakshmi Mahila Sahakari Bank Ltd:
+  - द भाग्यलक्ष्मी महिला सहकारी बैंक लिमिटेड
+  - द भाग्यलक्ष्मी महिला सहकारी बैंक
+  The Chandigarh State Co-op Bank Ltd:
+  - द चंडीगढ़ स्टेट सीओ-ओप बैंक लिमिटेड
+  - द चंडीगढ़ स्टेट सीओ-ओप बैंक
+  The Co-Operative Bank of Rajkot Ltd.:
+  - द सीओ-ऑपरेटिव बैंक ओएफ राजकोट लिमिटेड
+  - द सीओ-ऑपरेटिव बैंक
+  The Commercial Co-operative Bank Ltd .:
+  - द कमर्शियल सीओ-ऑपरेटिव बैंक लिमिटेड
+  - द कमर्शियल सीओ-ऑपरेटिव बैंक
+  The Davanagere Harihar Urban Sahakara Bank Niyamitha:
+  - द दावणगेरे हरिहर अर्बन सहकारा बैंक नियमित
+  - द दावणगेरे हरिहर अर्बन सहकारा बैंक
+  The Dhanbad Central Co-Operative Bank Ltd.:
+  - द धनबाद सेंट्रल सीओ-ऑपरेटिव बैंक लिमिटेड
+  - द धनबाद सेंट्रल सीओ-ऑपरेटिव बैंक
+  The Erode District Central Co-Operative Bank Ltd:
+  - द इरोड डिस्ट्रिक्ट सेंट्रल सीओ-ऑपरेटिव बैंक लिमिटेड
+  - द इरोड डिस्ट्रिक्ट सेंट्रल सीओ-ऑपरेटिव बैंक
+  The Gandhi Gunj Co-Operative Bank Ltd:
+  - द गांधी गुंज सीओ-ऑपरेटिव बैंक लिमिटेड
+  - द गांधी गुंज सीओ-ऑपरेटिव बैंक
+  The Gandhinagar Urban Coop Bank Ltd:
+  - द गांधीनगर अर्बन कूप बैंक लिमिटेड
+  - द गांधीनगर अर्बन कूप बैंक
+  The Haryana State Co-operative Apex Bank Ltd:
+  - द हरियाणा स्टेट सीओ-ऑपरेटिव एपेक्स बैंक लिमिटेड
+  - द हरियाणा स्टेट सीओ-ऑपरेटिव एपेक्स बैंक
+  The Kakinada Co-Op Town Bank Ltd:
+  - द काकीनाडा सीओ-ओप टाउन बैंक लिमिटेड
+  - द काकीनाडा सीओ-ओप टाउन बैंक
+  The Kodagu District Cooperrative Central Bank Ltd:
+  - द कोडागू डिस्ट्रिक्ट कोआपरेटिव सेंट्रल बैंक लिमिटेड
+  - द कोडागू डिस्ट्रिक्ट कोआपरेटिव सेंट्रल बैंक
+  The Kopargaon Peoples Co Op Bank Ltd:
+  - द कोपरगांव पीपल्स सीओ ओप बैंक लिमिटेड
+  - द कोपरगांव पीपल्स सीओ ओप बैंक
+  The Latur Urban Coop Bank Ltd,Latur:
+  - द लातूर अर्बन कूप बैंक लिमिटेड लातूर
+  - द लातूर अर्बन कूप बैंक
+  The Makarpura Industrial Estate Cooperative Bank Ltd.:
+  - द मकरपुरा इंडस्ट्रियल एस्टेट कोआपरेटिव बैंक लिमिटेड
+  - द मकरपुरा इंडस्ट्रियल एस्टेट कोआपरेटिव बैंक
+  The Meghalaya Cooperative Apex Bank Ltd.:
+  - द मेघालय कोआपरेटिव एपेक्स बैंक लिमिटेड
+  - द मेघालय कोआपरेटिव एपेक्स बैंक
+  The Moti Urban Co-operative Bank Ltd, Taloda:
+  - द मोती अर्बन सीओ-ऑपरेटिव बैंक लिमिटेड तलोदा
+  - द मोती अर्बन सीओ-ऑपरेटिव बैंक
+  The Panipat Urban Cooperative Bank LTD:
+  - द पानीपत अर्बन कोआपरेटिव बैंक लिमिटेड
+  - द पानीपत अर्बन कोआपरेटिव बैंक
+  The Raichur District Central Co-op Bank Ltd Raichur:
+  - द रायचूर डिस्ट्रिक्ट सेंट्रल सीओ-ओप बैंक लिमिटेड रायचूर
+  - द रायचूर डिस्ट्रिक्ट सेंट्रल सीओ-ओप बैंक
+  The Railway Employees Cooperative Bank Ltd,Jaipur:
+  - द रेलवे एम्प्लाइज कोआपरेटिव बैंक लिमिटेड जयपुर
+  - द रेलवे एम्प्लाइज कोआपरेटिव बैंक
+  The Ranuj Nagrik Sahakari Bank Ltd:
+  - द रनुज नागरिक सहकारी बैंक लिमिटेड
+  - द रनुज नागरिक सहकारी बैंक
+  The Sarvodaya Sahakari Bank Ltd., Modasa:
+  - द सर्वोदय सहकारी बैंक लिमिटेड मोडासा
+  - द सर्वोदय सहकारी बैंक
+  The Shoranur Co Operative Urban Bank Ltd:
+  - द शोरानूर सीओ ऑपरेटिव अर्बन बैंक लिमिटेड
+  - द शोरानूर सीओ ऑपरेटिव अर्बन बैंक
+  The Urban Co-Operative Bank Ltd,Perinthalmanna:
+  - द अर्बन सीओ-ऑपरेटिव बैंक लिमिटेड पेरिंथलमन्ना
+  - द अर्बन सीओ-ऑपरेटिव बैंक
+  The Uttarsanda Peoples Coop Bank Ltd Uttarsanda:
+  - द उत्तरसंडा पीपल्स कूप बैंक लिमिटेड उत्तरसंडा
+  - द उत्तरसंडा पीपल्स कूप बैंक
+  The Veraval Mercantile Co-operative Bank Ltd:
+  - द वेरावल मर्केंटाइल सीओ-ऑपरेटिव बैंक लिमिटेड
+  - द वेरावल मर्केंटाइल सीओ-ऑपरेटिव बैंक
+  The Zoroastrian Co-operative Bank Ltd.:
+  - द जोरास्ट्रियन सीओ-ऑपरेटिव बैंक लिमिटेड
+  - द जोरास्ट्रियन सीओ-ऑपरेटिव बैंक
+  Tumkur Grain Merchants Co-operative Bank Ltd:
+  - तुमकुर ग्रेन मर्चेंट सीओ-ऑपरेटिव बैंक लिमिटेड
+  - तुमकुर ग्रेन मर्चेंट सीओ-ऑपरेटिव बैंक
+  UMA CO-OPERATIVE BANK LTD:
+  - उमा सीओ-ऑपरेटिव बैंक लिमिटेड
+  - उमा सीओ-ऑपरेटिव बैंक
+  URBAN CO OPERATIVA BANK LTD SIDDHARTHNAGAR:
+  - अर्बन सीओ ऑपरेटिवा बैंक लिमिटेड सिद्धार्थनगर
+  - अर्बन सीओ ऑपरेटिवा बैंक
+  Umiya Urban Co-Operative Bank Maryadit Nagpur:
+  - उमिया अर्बन सीओ-ऑपरेटिव बैंक मर्यादित नागपुर
+  - उमिया अर्बन सीओ-ऑपरेटिव बैंक
+  Unimoni Financial Services Limited:
+  - यूनिमोनी फाइनेंशियल सर्विस लिमिटेड
+  Unjha Nagarik Sahakari Bank Ltd:
+  - ऊंझा नागरिक सहकारी बैंक लिमिटेड
+  - ऊंझा नागरिक सहकारी बैंक
+  Vilas Co-operative Bank Ltd., Latur:
+  - विलास सीओ-ऑपरेटिव बैंक लिमिटेड लातूर
+  - विलास सीओ-ऑपरेटिव बैंक
+  Warangal District Coop Central Bank Ltd:
+  - वारंगल डिस्ट्रिक्ट कूप सेंट्रल बैंक लिमिटेड
+  - वारंगल डिस्ट्रिक्ट कूप सेंट्रल बैंक
+  ZILA SAHKARI BANK LTD, LAKHIMPUR KHERI:
+  - जिला सहकारी बैंक लिमिटेड लखीमपुर खेरी
+  - जिला सहकारी बैंक
+  Zila Sahkari Bank Ltd Rampur:
+  - जिला सहकारी बैंक लिमिटेड रामपुर
+  - जिला सहकारी बैंक
+  ACE Cooperative Bank Ltd:
+  - एसीई कोआपरेटिव बैंक लिमिटेड
+  - एसीई कोआपरेटिव बैंक
+  Balitikuri Co-Operative Bank Ltd:
+  - बलितिकुरी सीओ-ऑपरेटिव बैंक लिमिटेड
+  - बलितिकुरी सीओ-ऑपरेटिव बैंक
+  Contai Co-operative Bank Limited:
+  - कोंटाई सीओ-ऑपरेटिव बैंक लिमिटेड
+  - कोंटाई सीओ-ऑपरेटिव बैंक
+  LIC Employees Co-operative Bank Ltd,Udupi:
+  - एलआईसी एम्प्लाइज सीओ-ऑपरेटिव बैंक लिमिटेड उडुपी
+  - एलआईसी एम्प्लाइज सीओ-ऑपरेटिव बैंक
+  Liluah Co-operative Bank Ltd:
+  - लिलुआ सीओ-ऑपरेटिव बैंक लिमिटेड
+  - लिलुआ सीओ-ऑपरेटिव बैंक
+  Lokvikas Nagari Sahakari Bank Ltd:
+  - लोकविकास नगरी सहकारी बैंक लिमिटेड
+  - लोकविकास नगरी सहकारी बैंक
+  Maharashtra Nagari Sahakari Bank Ltd, Latur:
+  - महाराष्ट्र नगरी सहकारी बैंक लिमिटेड लातूर
+  - महाराष्ट्र नगरी सहकारी बैंक
+  NAVAL DOCKYARD BANK:
+  - नवल डॉकयार्ड बैंक
+  NORTHERN RAILWAY MULTI STATE PRIMARY COOPERATIVE BANK LTD:
+  - नॉर्दर्न रेलवे मल्टी स्टेट प्राइमरी कोआपरेटिव बैंक लिमिटेड
+  - नॉर्दर्न रेलवे मल्टी स्टेट प्राइमरी कोआपरेटिव बैंक
+  SHARAD SAHAKARI BANK LTD MANCHAR:
+  - शरद सहकारी बैंक लिमिटेड मंचर
+  - शरद सहकारी बैंक
+  SHRI CHHANI NAGRIK SAHAKARI BANK LTD:
+  - श्री छानी नागरिक सहकारी बैंक लिमिटेड
+  - श्री छानी नागरिक सहकारी बैंक
+  Shri Anand Nagari Sahakari Bank Ltd.Chandrapur:
+  - श्री आनंद नगरी सहकारी बैंक लिमिटेड चंद्रपुर
+  - श्री आनंद नगरी सहकारी बैंक
+  Shri Rukmini Sahakari Bank Ltd, Shrigonda:
+  - श्री रुक्मिणी सहकारी बैंक लिमिटेड, श्रीगोंदा
+  - श्री रुक्मिणी सहकारी बैंक
+  Sonbhadra Nagar Sahkari Bank Ltd:
+  - सोनभद्र नगर सहकारी बैंक लिमिटेड
+  - सोनभद्र नगर सहकारी बैंक
+  The Babasaheb Deshmukh Sahakari Bank Ltd , Atpadi:
+  - द बाबासाहेब देशमुख सहकारी बैंक लिमिटेड अटपड़ी
+  - द बाबासाहेब देशमुख सहकारी बैंक
+  The Gandhidham Mercantile Co-operative Bank Ltd:
+  - द गांधीधाम मर्केंटाइल सीओ-ऑपरेटिव बैंक लिमिटेड
+  - द गांधीधाम मर्केंटाइल सीओ-ऑपरेटिव बैंक
+  The Umreth Urban Co-Operative Bank Ltd:
+  - द उमरेठ अर्बन सीओ-ऑपरेटिव बैंक लिमिटेड
+  - द उमरेठ अर्बन सीओ-ऑपरेटिव बैंक
+  The Vaish Co-operative New Bank Ltd:
+  - द वैश सीओ-ऑपरेटिव न्यू बैंक लिमिटेड
+  - द वैश सीओ-ऑपरेटिव न्यू बैंक
+  Vyavsayik Bank:
+  - व्यावसायिक बैंक
+  Wana Nagarik Sahakari Bank Ltd.:
+  - वाना नागरिक सहकारी बैंक लिमिटेड
+  - वाना नागरिक सहकारी बैंक
 # electricity_board:
 #   APEPDCL-Eastern Power Distribution CO AP Ltd:
 #   - इस्टर्न पॉवर डिस्ट्रिब्यूशन सी ओ ए पी लिमिटेड
@@ -1643,81 +2072,81 @@ lpg_gas_provider_name:
   - ज्योथी गैस प्राईवेट लिमिटिड
   - ज्योथी गैस
   - ज्योती गैस
-pipe_gas_provider_name:
-  Aavantika Gas Ltd.:
-  - आवन्तिका गैस लिमिटेड
-  Adani Total Gas Limited:
-  - अडानी टोटाल गैस लिमिटेड
-  - अडानी गैस
-  - अडानी टोटाल
-  - अडानी पाइप गैस
-  Assam Gas Company Limited:
-  - असाम गैस कम्पनी लिमिटेड
-  - असाम गैस कंपनी
-  - असाम गैस
-  Bhagyanagar Gas Limited:
-  - भाग्यानगर गैस लिमिटेड
-  Central U.P. Gas Limited:
-  - सेन्ट्रल यू पी गैस लिमिटेड
-  Charotar Gas Sahakari Mandali Ltd:
-  - चारोतार गैस सहाकारी मंडाली लिमिटेड
-  GAIL Gas Limited:
-  - गैल गैस लिमिटेड
-  - गैल
-  GAIL India Limited:
-  - गैल इंदिया लिमिटेड
-  - गैल इंदिया
-  Green Gas Limited(GGL):
-  - ग्रिन गैस लिमिटेड
-  - ग्रिन गैस
-  - जी जी एल
-  Gujarat Gas Limited:
-  - गुजरत गैस लिमिटेड
-  Gujarat State Petronet Limited:
-  - गुजरत स्टेटे पैट्रोनेट लिमिटेड
-  Haryana City Gas - Kapil Chopra Enterprise:
-  - हरयाणा सीटी गैस कापिल चोपड़ा एंटरप्राइज़
-  - हरयाणा सीटी गैस
-  - कापिल चोपड़ा एंटरप्राइज़
-  IRM Energy Private Limited:
-  - आई आर एम इनर्जी प्राईवेट लिमिटेड
-  Indian Oil Corporation Ltd-Piped Gas:
-  - इन्डियन आयल कॉरपोरेशन लिमिटेड पाईप्ड गैस
-  - आइओसीएल
-  - इन्डियन आयल
-  Indian Oil-Adani Gas Private Limited:
-  - इन्डियन आयल अडानी गैस प्राईवेट लिमिटेड
-  Indraprastha Gas:
-  - इन्द्रप्रस्थ गैस
-  - आई जी एल
-  - इन्द्रप्रस्थ गैस
-  Mahanagar Gas Limited:
-  - माहानगर गैस लिमिटेड
-  - माहानगर गैस
-  Maharashtra Natural Gas Limited (MNGL):
-  - महाराष्ट्रा नैचुरल गैस लिमिटेड
-  - एम एन जी एल
-  - महाराष्ट्रा गैस लिमिटेड
-  Megha Gas:
-  - मेघ गैस
-  Naveriya Gas Pvt Ltd:
-  - नावेरिया गैस प्राईवेट लिमिटेड
-  Purba Bharati Gas Pvt Ltd:
-  - पूर्बा भरती गैस प्राईवेट लिमिटेड
-  Rajasthan State Gas Limited:
-  - राजास्थान स्टेटे गैस लिमिटेड
-  Sabarmati Gas Limited (SGL):
-  - सबरमती गैस लिमिटेड
-  - एस जी एल
-  Torrent Gas:
-  - टॉरेंट गैस
-  Tripura Natural Gas:
-  - त्रिपुर नैचुरल गैस
-  Unique Central Piped Gases Pvt Ltd (UCPGPL):
-  - यूनीक सेन्ट्रल पाईप्ड गेसेस प्राईवेट लिमिटेड
-  - यू सी पी जी पी एल
-  Vadodara Gas Limited:
-  - वड़ोदरा गैस लिमिटेड
+# pipe_gas_provider_name:
+#   Aavantika Gas Ltd.:
+#   - आवन्तिका गैस लिमिटेड
+#   Adani Total Gas Limited:
+#   - अडानी टोटाल गैस लिमिटेड
+#   - अडानी गैस
+#   - अडानी टोटाल
+#   - अडानी पाइप गैस
+#   Assam Gas Company Limited:
+#   - असाम गैस कम्पनी लिमिटेड
+#   - असाम गैस कंपनी
+#   - असाम गैस
+#   Bhagyanagar Gas Limited:
+#   - भाग्यानगर गैस लिमिटेड
+#   Central U.P. Gas Limited:
+#   - सेन्ट्रल यू पी गैस लिमिटेड
+#   Charotar Gas Sahakari Mandali Ltd:
+#   - चारोतार गैस सहाकारी मंडाली लिमिटेड
+#   GAIL Gas Limited:
+#   - गैल गैस लिमिटेड
+#   - गैल
+#   GAIL India Limited:
+#   - गैल इंदिया लिमिटेड
+#   - गैल इंदिया
+#   Green Gas Limited(GGL):
+#   - ग्रिन गैस लिमिटेड
+#   - ग्रिन गैस
+#   - जी जी एल
+#   Gujarat Gas Limited:
+#   - गुजरत गैस लिमिटेड
+#   Gujarat State Petronet Limited:
+#   - गुजरत स्टेटे पैट्रोनेट लिमिटेड
+#   Haryana City Gas - Kapil Chopra Enterprise:
+#   - हरयाणा सीटी गैस कापिल चोपड़ा एंटरप्राइज़
+#   - हरयाणा सीटी गैस
+#   - कापिल चोपड़ा एंटरप्राइज़
+#   IRM Energy Private Limited:
+#   - आई आर एम इनर्जी प्राईवेट लिमिटेड
+#   Indian Oil Corporation Ltd-Piped Gas:
+#   - इन्डियन आयल कॉरपोरेशन लिमिटेड पाईप्ड गैस
+#   - आइओसीएल
+#   - इन्डियन आयल
+#   Indian Oil-Adani Gas Private Limited:
+#   - इन्डियन आयल अडानी गैस प्राईवेट लिमिटेड
+#   Indraprastha Gas:
+#   - इन्द्रप्रस्थ गैस
+#   - आई जी एल
+#   - इन्द्रप्रस्थ गैस
+#   Mahanagar Gas Limited:
+#   - माहानगर गैस लिमिटेड
+#   - माहानगर गैस
+#   Maharashtra Natural Gas Limited (MNGL):
+#   - महाराष्ट्रा नैचुरल गैस लिमिटेड
+#   - एम एन जी एल
+#   - महाराष्ट्रा गैस लिमिटेड
+#   Megha Gas:
+#   - मेघ गैस
+#   Naveriya Gas Pvt Ltd:
+#   - नावेरिया गैस प्राईवेट लिमिटेड
+#   Purba Bharati Gas Pvt Ltd:
+#   - पूर्बा भरती गैस प्राईवेट लिमिटेड
+#   Rajasthan State Gas Limited:
+#   - राजास्थान स्टेटे गैस लिमिटेड
+#   Sabarmati Gas Limited (SGL):
+#   - सबरमती गैस लिमिटेड
+#   - एस जी एल
+#   Torrent Gas:
+#   - टॉरेंट गैस
+#   Tripura Natural Gas:
+#   - त्रिपुर नैचुरल गैस
+#   Unique Central Piped Gases Pvt Ltd (UCPGPL):
+#   - यूनीक सेन्ट्रल पाईप्ड गेसेस प्राईवेट लिमिटेड
+#   - यू सी पी जी पी एल
+#   Vadodara Gas Limited:
+#   - वड़ोदरा गैस लिमिटेड
 # state_name:
 #   Andaman and Nicobar:
 #   - अन्दमान एन्ड नीकोबार
